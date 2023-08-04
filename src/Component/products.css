@@ -1,0 +1,45 @@
+#prev{
+    margin-right: 10px;
+    border: 1px solid red;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#prev:hover{
+    background-color: red;
+    color:white;
+}
+#currentPage{
+    margin: 10px;
+    border: 1px solid cyan;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.paginationSelect{
+    background-color: cyan;
+}
+#currentPage:hover{
+    background-color: cyan;
+    color:white;
+}
+#next{
+    margin-left: 10px;
+    border: 1px solid red;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#next:hover{
+    background-color: red;
+    color:white;
+}
