@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecoomerseStore-functionality/static/css/main.83c85d4c.css",
+    "main.js": "/ecoomerseStore-functionality/static/js/main.a5ae549a.js",
+    "static/js/787.739533ec.chunk.js": "/ecoomerseStore-functionality/static/js/787.739533ec.chunk.js",
+    "index.html": "/ecoomerseStore-functionality/index.html",
+    "main.83c85d4c.css.map": "/ecoomerseStore-functionality/static/css/main.83c85d4c.css.map",
+    "main.a5ae549a.js.map": "/ecoomerseStore-functionality/static/js/main.a5ae549a.js.map",
+    "787.739533ec.chunk.js.map": "/ecoomerseStore-functionality/static/js/787.739533ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c85d4c.css",
+    "static/js/main.a5ae549a.js"
+  ]
+}
